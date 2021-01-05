@@ -1,0 +1,18 @@
+# Directories #
+.ipynb_checkpoints/
+
+# Data files #
+*.csv
+*.htm
+*.html
+*.txt
+*.zip
+
+# Other binary files #
+*.xlsx
+*.xls
+*.xlsm
+*.png
+*.mp4
+*.jpg
+*.gif
